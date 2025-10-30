@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Roushani Singh</h1>
-<h3 align="center">A Passionate MERN Stack Developer from India 🇮🇳</h3>
+<h3 align="center">A Passionate MERN Stack Developer</h3>
 
 ---
 
@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning **MERN Stack (MongoDB, Express, React, Node.js)**  
 - 💻 I love building **Full-Stack Web Apps** and exploring new technologies  
 - 🧠 I’m focusing on **clean code, scalability, and UI/UX design**  
-- 📫 How to reach me: **roushanisingh@gmail.com**  
+- 📫 How to reach me: **roushanisingh770@gmail.com**  
 - ⚡ Fun fact: *I debug more than I sleep 😅*
 
 ---
